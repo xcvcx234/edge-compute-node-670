@@ -1,0 +1,1 @@
+const util_yuc9 = (d: any) => d;
